@@ -1,0 +1,16 @@
+#titulo {
+    font-size: 40px;
+}
+
+#jugador {
+    font-size: 30px;
+}
+
+#filaBoton {
+    justify-content: center;
+}
+
+#botonComienzo {
+    width:200px;
+    
+}

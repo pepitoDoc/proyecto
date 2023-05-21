@@ -1,0 +1,10 @@
+edu\fpdual\api\dao\PlayerTest.class
+edu\fpdual\service\GameServiceTest.class
+edu\fpdual\api\dao\GameTest$2.class
+edu\fpdual\persistence\manager\impl\GameManagerImplTest$3.class
+edu\fpdual\api\dao\GameTest.class
+edu\fpdual\persistence\manager\impl\GameManagerImplTest$1.class
+edu\fpdual\api\dao\GameTest$1.class
+edu\fpdual\persistence\manager\impl\GameManagerImplTest$2.class
+edu\fpdual\persistence\manager\impl\GameManagerImplTest.class
+edu\fpdual\persistence\manager\impl\PlayerManagerImplTest.class
